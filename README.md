@@ -15,17 +15,5 @@ cd ..
 chmod 777 start.sh
 ./start.sh install
 ./start.sh -q
-```
-| ANTI CRASH |
-|:-----------------------|
-```sh
 tmux new-session -s script "bash steady.sh -t"
 ```
-
-| FREE SERVER: |
-|:-----------------------|
-| `./steady.sh -t` |
-
-| BOUGHT SERVER: |
-|:-----------------------|
-| `./steady.sh -s` |
