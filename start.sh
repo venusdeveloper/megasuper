@@ -8,7 +8,7 @@ update() {
   git submodule update --init --recursive
   install_rocks
 }
-#By: @AdvanTm
+#By: @DrCyber
 # Will install luarocks on THIS_DIR/.luarocks
 install_luarocks() {
   git clone https://github.com/keplerproject/luarocks.git
@@ -95,7 +95,7 @@ install() {
   install_luarocks
   install_rocks
 }
-#By: @AdvanTm
+#By: @DrCyber
 if [ "$1" = "install" ]; then
   install
 elif [ "$1" = "update" ]; then
