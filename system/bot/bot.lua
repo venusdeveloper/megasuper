@@ -249,9 +249,9 @@ function create_config( )
     "language",
     "whitelist"
     },
-    vip_users = {111111111}, --vip users
-    sudo_users = {239832443},--Sudo users
-    support_gp = {1069029177},--Support id
+    vip_users = {91112540}, --vip users
+    sudo_users = {91112540},--Sudo users
+    support_gp = {91112540},--Support id
     moderation = {data = 'system/data/adv.json'},
     about_text = [[*IN THE NAME OF ALLAH*
 This is an original bot .
