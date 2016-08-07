@@ -232,6 +232,12 @@ function create_config( )
     "onservice",
     "plugins",
     "pm",
+    "warn",
+    "sh",
+    "abjad",
+    "expier",
+    "filter",
+    "rmsg",
     "savefile",
     "saveplug",
     "setbye",
@@ -244,8 +250,8 @@ function create_config( )
     "whitelist"
     },
     vip_users = {111111111}, --vip users
-    sudo_users = {111984481},--Sudo users
-    support_gp = {111111111},--Support id
+    sudo_users = {239832443},--Sudo users
+    support_gp = {1069029177},--Support id
     moderation = {data = 'system/data/adv.json'},
     about_text = [[*IN THE NAME OF ALLAH*
 This is an original bot .
