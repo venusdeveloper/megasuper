@@ -3,7 +3,7 @@
 |:-----------------------|
 ```sh
 cd $home
-git clone https://github.com/DrCyber/CyberBot.git
+git clone https://github.com/DrCyber1167/CyberBot.git
 cd CyberBot
 cd .run
 chmod 777 adv.sh
