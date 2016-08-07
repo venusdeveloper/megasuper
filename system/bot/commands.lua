@@ -102,7 +102,7 @@ end
 -- will get the text after the last "/" for filename
 -- and content-type for extension
 function download_to_file(url, file_name)
-  print("(@advantm) file has been saved in: "..url)
+  print("(@DrCyber) file has been saved in: "..url)
 
   local respbody = {}
   local options = {
