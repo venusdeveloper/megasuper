@@ -248,12 +248,10 @@ function create_config( )
     support_gp = {111111111},--Support id
     moderation = {data = 'system/data/adv.json'},
     about_text = [[*IN THE NAME OF ALLAH*
-This is an original bot and based on (AdvanSource).
+This is an original bot .
 Copyright all right reserved and you must respect all laws.
 
-Source: https://github.com/janlou/AdvanSource
-Channel: @AdvanTm
-Creator: @Advanbot
+Creator: @DrCyber
 ]]
   }
   serialize_to_file(config, './system/data/config.lua')
