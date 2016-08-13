@@ -251,7 +251,7 @@ function create_config( )
     },
     vip_users = {91112540}, --vip users
     sudo_users = {91112540},--Sudo users
-    support_gp = {91112540},--Support id
+    support_gp = {1060253265},--Support id
     moderation = {data = 'system/data/adv.json'},
     about_text = [[*IN THE NAME OF ALLAH*
 This is an original bot .
